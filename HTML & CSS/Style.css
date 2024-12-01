@@ -1,0 +1,162 @@
+
+
+
+
+body{background-color: aqua;}
+
+h1{ font-family:jokerman;
+
+    color: black;
+
+    font-size: xx-large;
+
+    text-align: center;
+}
+
+    h1{
+
+        font-size: 20px;
+        color: beige;
+
+    }
+
+.header_section{
+
+    width: 80%;
+
+    height: 60%;
+
+    margin: auto;
+
+    align-content: center;
+}
+
+.header_section h1{
+
+  font-size: 20px;  
+
+    color: black
+}
+
+.header_section img{
+
+width: 1000px;
+
+
+height: 500px;
+
+
+margin-left: 225px;
+border: 5px rebeccapurple ridge;
+
+border-radius: 10%;
+
+}
+
+.media_div img{
+
+   
+
+    height: 300px;
+
+    width: 400px;
+    
+    border-radius: 10%;
+
+
+
+
+
+}
+
+
+
+.media_div p{
+
+    font-size: 22px;
+
+    color: white;
+
+    padding: 5px;
+
+    text-align: center;
+}
+
+
+.media_div{
+
+
+    float: left;
+
+    width: 22%;
+
+    height: auto;
+    
+    padding: 12px;
+
+    margin: 5px;
+
+    border: 1px burlywood ridge;
+
+    background-image: radial-gradient(blue, purple);
+
+    border-radius: 15%;
+
+    box-shadow: black 2px 5px;
+
+    align-content: center;
+
+    text-align: center;
+
+    margin-bottom: 40px;
+}
+
+p {
+
+
+    text-align: center;
+}
+
+video{
+
+height: 500px;
+width: 350px;
+border-radius: 15%;
+
+}
+
+iframe{
+
+    border-radius: 10%;
+}
+
+.media_div1{
+
+
+    float: left;
+
+    width: 45%;
+
+    height: auto;
+    
+    padding: 12px;
+
+    margin: 5px;
+
+    border: 1px burlywood ridge;
+
+    background-image: radial-gradient(blue, purple);
+
+    border-radius: 25%;
+
+    box-shadow: black 2px 5px;
+
+    align-content: center;
+
+    text-align: center;
+
+    margin-bottom: 40px;
+
+
+
+}
